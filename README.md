@@ -1,5 +1,5 @@
 🚀 Outstanding features
-  + **1. HomeMenuPage**
+   +  **1. HomeMenuPage**
 - Search bar supports debounce and saves search history.
 - Display dishes horizontally (ListView):
 - Each item has a large image, cooking time, dish name, and creator.
